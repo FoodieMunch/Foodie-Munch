@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "Manchurian",
-            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/istockphoto-1334115358-612x612.jpg?alt=media&token=5a7fdbbb-c0fa-4b0e-a1a2-57b82a008ddd&_gl=1*1fs39r2*_ga*MTgxNDE0MjQwNy4xNjk3NzkyMDI0*_ga_CW55HF8NVT*MTY5Nzc5MjAyNS4xLjEuMTY5Nzc5NDI4Ni40NS4wLjA.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodcustomer-38f44.appspot.com/o/istockphoto-1334115358-612x612.jpg?alt=media&token=43b96ea4-e8f3-4560-9cac-cb2814337cc2&_gl=1*913a6k*_ga*MTUxNjYyNDg0MC4xNjg4Mzc5ODcx*_ga_CW55HF8NVT*MTY5Nzc4OTQyOC40NC4xLjE2OTc3ODk2MjQuNi4wLjA.",
             "price": "80",
             "rate": "4.9",
             "time": "30",
@@ -13,7 +13,7 @@
         {
             "id": 2,
             "name": "Fried Rice",
-            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/Vegetable-Fried-Rice-2-3.jpg?alt=media&token=46ba98a9-3893-44be-8483-8542e9f58a97&_gl=1*1g88fi5*_ga*MTgxNDE0MjQwNy4xNjk3NzkyMDI0*_ga_CW55HF8NVT*MTY5Nzc5MjAyNS4xLjEuMTY5Nzc5NDQyMC41Mi4wLjA.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/Vegetable-Fried-Rice-2-3.jpg?alt=media&token=46ba98a9-3893-44be-8483-8542e9f58a97",
             "price": "60",
             "rate": "4.5",
             "time": "20",
@@ -23,7 +23,7 @@
         {
             "id": 3,
             "name": "Pizza",
-            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/food-pizza-still-life-hd-wallpaper-preview.jpg?alt=media&token=aad16821-762c-4861-954b-713135559392&_gl=1*1k09yqu*_ga*MTgxNDE0MjQwNy4xNjk3NzkyMDI0*_ga_CW55HF8NVT*MTY5Nzc5MjAyNS4xLjEuMTY5Nzc5NDU0OS40My4wLjA.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/food-pizza-still-life-hd-wallpaper-preview.jpg?alt=media&token=aad16821-762c-4861-954b-713135559392",
             "price": "199",
             "rate": "4.8",
             "time": "40",
@@ -33,7 +33,7 @@
         {
             "id": 4,
             "name": "Burger",
-            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/burger-7831128_1280.webp?alt=media&token=09acd181-0c5d-438b-a9ec-4c9b91487aed&_gl=1*1vfrv3h*_ga*MTgxNDE0MjQwNy4xNjk3NzkyMDI0*_ga_CW55HF8NVT*MTY5Nzc5MjAyNS4xLjEuMTY5Nzc5NDY5OC41MC4wLjA.",
+            "image": "https://cdn.pixabay.com/photo/2023/03/05/11/02/burger-7831128_1280.jpg",
             "price": "99",
             "rate": "4.7",
             "time": "30",
@@ -43,7 +43,7 @@
         {
             "id": 5,
             "name": "Pasta",
-            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/1308370.jpg?alt=media&token=b8280049-487e-40b3-b493-a83d02497b85&_gl=1*1hvompa*_ga*MTgxNDE0MjQwNy4xNjk3NzkyMDI0*_ga_CW55HF8NVT*MTY5Nzc5MjAyNS4xLjEuMTY5Nzc5NDgwMi40NS4wLjA.",
+            "image": "https://images.alphacoders.com/130/1308370.jpg",
             "price": "70",
             "rate": "4.6",
             "time": "25",
@@ -53,7 +53,7 @@
         {
             "id": 6,
             "name": "Noodles",
-            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/bowl-noodles-with-vegetables-noodles_940863-11915.avif?alt=media&token=5eb5b2c8-6fb7-403a-9f90-2ab21e247015&_gl=1*34rdvr*_ga*MTgxNDE0MjQwNy4xNjk3NzkyMDI0*_ga_CW55HF8NVT*MTY5Nzc5MjAyNS4xLjEuMTY5Nzc5NDg4MS40NC4wLjA.",
+            "image": "https://img.freepik.com/premium-photo/bowl-noodles-with-vegetables-noodles_940863-11915.jpg",
             "price": "50",
             "rate": "4.5",
             "time": "20",
@@ -63,7 +63,7 @@
         {
             "id": 7,
             "name": "Sandwich",
-            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/two-sandwiches-made-slice-meat-cheese-tomatoes-toasted-bread-wooden-table_244366-394.avif?alt=media&token=f1b699d0-7a1d-44be-840a-e7bf0d7c3c14&_gl=1*1965eax*_ga*MTgxNDE0MjQwNy4xNjk3NzkyMDI0*_ga_CW55HF8NVT*MTY5Nzc5MjAyNS4xLjEuMTY5Nzc5NTAxMC41MC4wLjA.",
+            "image": "https://img.freepik.com/premium-photo/two-sandwiches-made-slice-meat-cheese-tomatoes-toasted-bread-wooden-table_244366-394.jpg",
             "price": "40",
             "rate": "4.4",
             "time": "15",
@@ -73,7 +73,7 @@
         {
             "id": 8,
             "name": "Rolls",
-            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/nem-chinese-vegetables-chinese-cabbage.jpg?alt=media&token=31b99f8f-d7ba-4442-a477-44453102a10b&_gl=1*gzojbo*_ga*MTgxNDE0MjQwNy4xNjk3NzkyMDI0*_ga_CW55HF8NVT*MTY5Nzc5MjAyNS4xLjEuMTY5Nzc5NTEwNC40OC4wLjA.",
+            "image": "https://c1.wallpaperflare.com/preview/564/844/49/nem-chinese-vegetables-chinese-cabbage.jpg",
             "price": "30",
             "rate": "4.3",
             "time": "10",
@@ -83,7 +83,7 @@
         {
             "id": 9,
             "name": "Momos",
-            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/desktop-wallpaper-veg-momos-recipe-momos-recipe-street-style-momos-momo-food.jpg?alt=media&token=85f16eaf-9e2c-48c4-8d8c-b7f97678dd15&_gl=1*1bd6lne*_ga*MTgxNDE0MjQwNy4xNjk3NzkyMDI0*_ga_CW55HF8NVT*MTY5Nzc5MjAyNS4xLjEuMTY5Nzc5NTE3Mi41MC4wLjA.",
+            "image": "https://e1.pxfuel.com/desktop-wallpaper/14/944/desktop-wallpaper-veg-momos-recipe-momos-recipe-street-style-momos-momo-food.jpg",
             "price": "50",
             "rate": "4.2",
             "time": "15",
@@ -93,7 +93,7 @@
         {
             "id": 10,
             "name": "Ice Cream",
-            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/istockphoto-1161805849-612x612.jpg?alt=media&token=7b64b44b-860d-46da-8edb-55247830c4e7&_gl=1*1w52eos*_ga*MTgxNDE0MjQwNy4xNjk3NzkyMDI0*_ga_CW55HF8NVT*MTY5Nzc5MjAyNS4xLjEuMTY5Nzc5NTI5NS40Mi4wLjA.",
+            "image": "https://media.istockphoto.com/id/1161805849/photo/strawberry-vanilla-chocolate-ice-cream-with-waffle-cone-on-marble-stone-backgrounds.jpg?s=612x612&w=0&k=20&c=BXObHKE0gbA2autsMZGFeEmK2xGKYdJBbM1_ig0Boyk=",
             "price": "40",
             "rate": "4.1",
             "time": "10",
@@ -103,7 +103,7 @@
         {
             "id": 11,
             "name": "French fries",
-            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/1747258.jpg?alt=media&token=7276c6c3-fa3f-46f3-a826-26cd5930e06e&_gl=1*ile9n0*_ga*MTgxNDE0MjQwNy4xNjk3NzkyMDI0*_ga_CW55HF8NVT*MTY5Nzc5MjAyNS4xLjEuMTY5Nzc5NTM2Ni41MC4wLjA.",
+            "image": "https://wallpaperaccess.com/full/1747258.jpg",
             "price": "60",
             "rate": "4.7",
             "time": "15",
@@ -113,7 +113,7 @@
         {
             "id": 12,
             "name": "Bread Pakora",
-            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/istockphoto-1294561361-612x612.jpg?alt=media&token=1382a8da-b2c9-4479-b72e-dbe4d278a290&_gl=1*1kuvuzf*_ga*MTgxNDE0MjQwNy4xNjk3NzkyMDI0*_ga_CW55HF8NVT*MTY5Nzc5MjAyNS4xLjEuMTY5Nzc5NTQzMS41My4wLjA.",
+            "image": "https://media.istockphoto.com/id/1294561361/photo/street-food-bread-pakora.jpg?s=612x612&w=0&k=20&c=iD-ykuRv1705rAUeRMKX-GdT5OGdNb2sIp0BvmCuCMg=",
             "price": "30",
             "rate": "4.6",
             "time": "10",
