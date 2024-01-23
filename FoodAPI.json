@@ -53,7 +53,7 @@
         {
             "id": 6,
             "name": "Noodles",
-            "image": "https://img.freepik.com/premium-photo/bowl-noodles-with-vegetables-noodles_940863-11915.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/noodles.jpg?alt=media&token=929f195d-fe8a-4e76-87f9-689f1c9f9a66",
             "price": "50",
             "rate": "4.5",
             "time": "20",
@@ -63,7 +63,7 @@
         {
             "id": 7,
             "name": "Sandwich",
-            "image": "https://img.freepik.com/premium-photo/two-sandwiches-made-slice-meat-cheese-tomatoes-toasted-bread-wooden-table_244366-394.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/two-sandwiches-made-slice-meat-cheese-tomatoes-toasted-bread-wooden-table_244366-394.avif?alt=media&token=7dfc086d-a61f-43cf-a5cb-3da2539b1602",
             "price": "40",
             "rate": "4.4",
             "time": "15",
@@ -73,7 +73,7 @@
         {
             "id": 8,
             "name": "Rolls",
-            "image": "https://c1.wallpaperflare.com/preview/564/844/49/nem-chinese-vegetables-chinese-cabbage.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/rolls.jpg?alt=media&token=4d58bd8f-feb0-485b-a298-e916472f3f26",
             "price": "30",
             "rate": "4.3",
             "time": "10",
@@ -83,7 +83,7 @@
         {
             "id": 9,
             "name": "Momos",
-            "image": "https://e1.pxfuel.com/desktop-wallpaper/14/944/desktop-wallpaper-veg-momos-recipe-momos-recipe-street-style-momos-momo-food.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/momops.jpg?alt=media&token=2d53ec4a-9c8a-476e-aacb-e52752b13c19",
             "price": "50",
             "rate": "4.2",
             "time": "15",
