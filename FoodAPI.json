@@ -125,7 +125,7 @@
         {
             "id": 1,
             "name": "Dhokla",
-            "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/10/khaman-dhokla-recipe.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/GUJRATI%2Fdhokla.webp?alt=media&token=06e0612c-5b35-4a2a-b0f9-80cdf6b58771",
             "price": "75",
             "rate": "4.9",
             "time": "30",
@@ -135,7 +135,7 @@
         {
             "id": 2,
             "name": "Khandvi",
-            "image": "https://rakskitchen.net/wp-content/uploads/2013/11/10921796334_c5b1f9fcda_z-500x375.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/GUJRATI%2Fkhandvi.jpg?alt=media&token=eb4b2a0b-c1f6-4d4f-9768-6f42a7612028",
             "price": "80",
             "rate": "4.8",
             "time": "25",
@@ -145,7 +145,7 @@
         {
             "id": 3,
             "name": "Thepla",
-            "image": "https://thumbs.dreamstime.com/b/indian-parantha-stuffed-indian-bread-methi-thepla-stack-indian-flatbread-methi-paratha-fenugreek-gujarati-thepla-potato-125773599.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/GUJRATI%2FThepla.jpg?alt=media&token=63a491ca-2a8c-44b1-893b-6b1da3e5efc7",
             "price": "40",
             "rate": "4.7",
             "time": "20",
@@ -155,7 +155,7 @@
         {
             "id": 4,
             "name": "Handvo",
-            "image": "https://infostationsite.files.wordpress.com/2015/11/32421handvo1.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/GUJRATI%2Fhandvo.png?alt=media&token=7a48e31d-61a0-4e91-8cd2-c0e9ef3ecbdd",
             "price": "60",
             "rate": "4.6",
             "time": "25",
@@ -165,7 +165,7 @@
         {
             "id": 5,
             "name": "Fafda",
-            "image": "https://img.freepik.com/premium-photo/fafda-food_57665-9633.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/GUJRATI%2Ffafda.jpg?alt=media&token=0f1ba398-2a61-432b-a1df-80064ebca644",
             "price": "100",
             "rate": "4.5",
             "time": "30",
@@ -175,7 +175,7 @@
         {
             "id": 6,
             "name": "Undhiyu",
-            "image": "https://www.secondrecipe.com/wp-content/uploads/2020/10/undhiyu-final-720x532.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/GUJRATI%2Fundhiyu.webp?alt=media&token=aa0457aa-1ca9-427c-86e2-5eca19177eee",
             "price": "159",
             "rate": "4.4",
             "time": "40",
@@ -185,7 +185,7 @@
         {
             "id": 7,
             "name": "Shrikhand",
-            "image": "https://thumbs.dreamstime.com/b/indian-sweet-kesar-shrikhand-dish-made-strained-yogurt-widely-popular-maharashtrian-cuisine-gujarati-cuisine-73797496.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/GUJRATI%2Fshrikhand.webp?alt=media&token=489141c4-306a-4a97-be31-8d778d2c8c2e",
             "price": "50",
             "rate": "4.3",
             "time": "15",
