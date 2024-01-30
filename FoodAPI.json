@@ -197,7 +197,7 @@
         {
             "id": 1,
             "name": "Sarso Da Saag and Makki Di Roti",
-            "image": "https://www.bigbasket.com/media/uploads/recipe/w-l/1826_1_1.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/PUNJABI%2Fsarso%20da%20shak.webp?alt=media&token=6fe4e7e3-0d61-4e1a-a319-a24b0fd9d89f",
             "price": "110",
             "rate": "4.9",
             "time": "40",
@@ -207,7 +207,7 @@
         {
             "id": 2,
             "name": "Chole Bhature",
-            "image": "https://st2.depositphotos.com/49005766/46430/i/450/depositphotos_464300244-stock-photo-indian-breakfast-poori-chickpea-chana.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/PUNJABI%2Fchole%20bhature.webp?alt=media&token=60213fdd-de40-4443-82c0-6375be849067",
             "price": "99",
             "rate": "4.8",
             "time": "30",
@@ -217,7 +217,7 @@
         {
             "id": 3,
             "name": "Dal Makhani",
-            "image": "https://media.istockphoto.com/id/1170374719/photo/dal-makhani-at-dark-background.jpg?s=612x612&w=0&k=20&c=49yLaUAE2apakVk2AAiRQimZd98WtSjIQ0hzCzWsmns=",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/PUNJABI%2Fdal%20makhni.webp?alt=media&token=778417db-ff79-420d-9059-1ccd5cc25503",
             "price": "60",
             "rate": "4.7",
             "time": "20",
@@ -227,7 +227,7 @@
         {
             "id": 4,
             "name": "Paneer Tikka",
-            "image": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-sweet-peppers-dill_2829-18809.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/PUNJABI%2Fpanner%20tikka.jpg?alt=media&token=01ea865e-a6e8-4f03-b1d3-6afb48589ba6",
             "price": "80",
             "rate": "4.6",
             "time": "25",
@@ -237,7 +237,7 @@
         {
             "id": 5,
             "name": "Rajma Chawal",
-            "image": "https://thumbs.dreamstime.com/b/punjabi-cuisine-rajma-chawal-indian-vegetarian-meal-rajma-chawal-salad-top-view-114181130.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/PUNJABI%2Frajma%20chaval.jpg?alt=media&token=598d5d68-30a0-4817-9b89-7758185ad36d",
             "price": "70",
             "rate": "4.5",
             "time": "20",
@@ -247,7 +247,7 @@
         {
             "id": 6,
             "name": "Kadai Paneer",
-            "image": "https://t4.ftcdn.net/jpg/03/38/36/61/360_F_338366121_VN1tkD0yOioCpXVGfRCym9iLrSZE0T7L.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/PUNJABI%2Fkadai%20panner.jpg?alt=media&token=fd0ece45-95e2-487e-b925-9c2c0deb98de",
             "price": "90",
             "rate": "4.4",
             "time": "25",
@@ -257,7 +257,7 @@
         {
             "id": 7,
             "name": "Aloo Paratha",
-            "image": "https://t4.ftcdn.net/jpg/02/29/55/23/360_F_229552315_VsKpPRRFQ3BWbMA6w2LCOOqeOJWJDIWZ.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/PUNJABI%2Fallo%20paratha.jpg?alt=media&token=0b854c60-8c48-465a-b718-9413d4c9f257",
             "price": "30",
             "rate": "4.3",
             "time": "15",
@@ -267,7 +267,7 @@
         {
             "id": 8,
             "name": "Punjabi Lassi",
-            "image": "https://t3.ftcdn.net/jpg/04/81/51/96/360_F_481519662_1Vqr3aA1SvOPFa4YbGsOCTpYXcpCZYk5.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/PUNJABI%2Flassi.jpg?alt=media&token=5ec10cee-b5b9-496c-8fa5-98aba3f56d42",
             "price": "40",
             "rate": "4.2",
             "time": "10",
