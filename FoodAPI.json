@@ -279,7 +279,7 @@
         {
             "id": 1,
             "name": "Margherita",
-            "image": "https://www.stroke.org/-/media/aha/recipe/recipe-images/classic-margherita-pizza-with-whole-wheat-pizza-crust.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/pizza%2Fmergherita.avif?alt=media&token=4e11beef-5774-44c5-af37-fa378b54aa0c",
             "price": "99",
             "rate": "4.5",
             "time": "5",
@@ -289,7 +289,7 @@
         {
             "id": 2,
             "name": "Farm House",
-            "image": "https://thebakernest.com/wp-content/uploads/2021/04/Farm-House-Pizza.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/pizza%2Ffarm%20house%20pizza.JPG?alt=media&token=1da4cab4-2432-445d-a2d9-b9f6c1806f9e",
             "price": "139",
             "rate": "4.3",
             "time": "7",
@@ -299,7 +299,7 @@
         {
             "id": 3,
             "name": "Peppy Paneer",
-            "image": "https://d3gy1em549lxx2.cloudfront.net/13677188-6708-443e-b1e9-ddface810db8.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/pizza%2Fpappy%20panner.webp?alt=media&token=a45e6be8-600c-4ffe-88e6-ca238bfd89c6",
             "price": "199",
             "rate": "4.6",
             "time": "6",
@@ -309,7 +309,7 @@
         {
             "id": 4,
             "name": "Mexican Green Wave",
-            "image": "https://www.antonio-carluccio.com/wp-content/uploads/2020/07/Mexican-Green-Wave-pizza-845x627.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/pizza%2Fmaxican%20pizza.jpg?alt=media&token=ffbd29d9-5533-46fe-ba36-3e3853e0f34a",
             "price": "299",
             "rate": "4.0",
             "time": "8",
@@ -319,7 +319,7 @@
         {
             "id": 5,
             "name": "Deluxe Veggie",
-            "image": "https://c4.wallpaperflare.com/wallpaper/234/543/684/food-pizza-wallpaper-preview.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/pizza%2Fdelux%20veggie.jpg?alt=media&token=8affb2cc-e94a-4038-b353-b2793b7be13c",
             "price": "159",
             "rate": "4.5",
             "time": "10",
@@ -329,7 +329,7 @@
         {
             "id": 6,
             "name": "Veg Extravaganza",
-            "image": "https://c4.wallpaperflare.com/wallpaper/1017/647/742/cheese-pizza-tomatoes-olives-bacon-hd-wallpaper-preview.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/pizza%2FVeg%20Extravaganza.jpg?alt=media&token=861b146d-3ccc-47aa-8372-4c7829bc9f8b",
             "price": "259",
             "rate": "4.7",
             "time": "8",
@@ -339,7 +339,7 @@
         {
             "id": 7,
             "name": "Cheese n Corn",
-            "image": "https://data2.1freewallpapers.com/download/corn-cheese-pizza-1920x1200.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/pizza%2Fcheese%20and%20corn.webp?alt=media&token=7015499b-858a-484b-bb15-c2e377ce5dd1",
             "price": "99",
             "rate": "4.6",
             "time": "5",
