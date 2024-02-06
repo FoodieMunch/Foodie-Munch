@@ -361,7 +361,7 @@
         {
             "id": 2,
             "name": "Veggie Roll",
-            "image": "https://c1.wallpaperflare.com/preview/564/844/49/nem-chinese-vegetables-chinese-cabbage.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/ROLLS%2Fveggie%20roll.jpg?alt=media&token=687c363b-ed26-437c-a371-28604140a419",
             "price": "40",
             "rate": "3.9",
             "time": "4",
@@ -371,7 +371,7 @@
         {
             "id": 3,
             "name": "Pizza Bread Roll",
-            "image": "https://i.pinimg.com/originals/73/02/dc/7302dcdd279c8f5fcae6d337c31f8df1.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/ROLLS%2Fpizza-rolls.jpg?alt=media&token=0a1c8a7d-6db7-4114-9811-b11cd0c301e2",
             "price": "80",
             "rate": "4.0",
             "time": "6",
