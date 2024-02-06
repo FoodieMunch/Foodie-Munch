@@ -533,4 +533,17 @@
             "descriptions": "Carrot Cake: Carrot cake is a cake that contains carrots mixed into the batter. Most modern carrot cake recipes have a white cream cheese frosting. Sometimes pecans, pineapple, and shredded coconut is added in the mix."
         }
     ]
+    "SouthIndianFoodAPI": [
+        {
+            "id": 1,
+            "name": "Dosa",
+            "image": "",
+            "price": "80",
+            "rate": "4.9",
+            "time": "30",
+            "calories": "200",
+            "descriptions": "A thin, crispy pancake made from fermented rice and urad dal batter, usually served with sambar and coconut chutney.",
+
+."
+        },
 }
