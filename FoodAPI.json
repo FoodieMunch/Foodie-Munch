@@ -541,7 +541,7 @@
             "price": "80",
             "rate": "4.9",
             "time": "30",
-            "calories": "200",
+            "calories": "133 ",
             "descriptions": " Dosa are thin, crispy pancakes made from fermented rice and lentil batter. They come in various forms, including plain dosa, masala dosa(filled with a spiced potato filling), and uttapams (thick dosas topped with vegetables). Dosa are typically served with sambar and coconut chutney."
         },
         {
@@ -551,7 +551,7 @@
             "price": "50",
             "rate": "4.5",
             "time": "30",
-            "calories": "200",
+            "calories": "70",
             "descriptions": "Idli is a popular South Indian dish that is enjoyed as a breakfast item or snack. It is a savory steamed rice cake made from a batter of fermented rice and black lentils (urad dal). Idlis are known for their soft and fluffy texture and are typically served with accompaniments such as sambar (a lentil-based vegetable stew) and various chutneys."
         },
         {
@@ -561,7 +561,7 @@
             "price": "60",
             "rate": "4.7",
             "time": "30",
-            "calories": "200",
+            "calories": "92 ",
             "descriptions": "Uttapam is a popular South Indian dish that resembles a thick pancake or dosa. It is made from a fermented batter of rice and urad dal (black lentils), but it is thicker and fluffier compared to dosa. Uttapam is typically served as a breakfast item or as a snack and is enjoyed with various accompaniments such as sambar (a lentil-based vegetable stew) and chutney."
         },
         {
@@ -571,7 +571,7 @@
             "price": "30",
             "rate": "4.9",
             "time": "30",
-            "calories": "200",
+            "calories": "97",
             "descriptions": "Medu Vada is a popular South Indian snack made from urad dal (black lentils) batter, seasoned with spices, and deep-fried until golden brown and crispy on the outside while maintaining a soft and fluffy texture inside. It is typically served with sambar (a lentil-based vegetable stew) and coconut chutney. ."
         },
         {
@@ -581,7 +581,7 @@
             "price": "80",
             "rate": "4.3",
             "time": "30",
-            "calories": "200",
+            "calories": "63",
             "descriptions": "Rasam is a traditional South Indian soup or broth that is known for its tangy and spicy flavor. It is typically served as a second course in a South Indian meal, following rice and sambar. Rasam is made from tamarind juice, tomatoes, and a blend of spices, and it is often consumed as a comforting and refreshing dish.."
         },
         {
@@ -591,7 +591,7 @@
             "price": "80",
             "rate": "4.9",
             "time": "30",
-            "calories": "200",
+            "calories": "87",
             "descriptions": "Appam, also known as hoppers, is a popular South Indian and Sri Lankan dish that consists of a fermented rice batter and coconut milk. It is characterized by its thin, crispy edges and soft, fluffy center, with a slightly sweet and tangy flavor. Appam is typically served for breakfast or as a snack, often accompanied by savory or sweet accompaniments such as coconut milk, chutney, or spicy curries."
         }
     ]
