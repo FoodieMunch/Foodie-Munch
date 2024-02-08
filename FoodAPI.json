@@ -499,7 +499,7 @@
             "name": "Chocolate Cake",
             "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/CAKES%2FChocolate%20Cake.webp?alt=media&token=f1670d38-d58f-40b0-831d-ee60dd489eaa",
             "price": "159",
-            "rate": "4.5",
+            "rate": "4.8",
             "time": "10",
             "calories": "267",
             "descriptions": "Chocolate Cake: A chocolate cake is a cake made with chocolate or cocoa powder. The ingredients are put into a bowl and mixed together; then the mixed ingredients are put into a cake tin and put in an oven until it is fully cooked. A chocolate cake is sometimes eaten with ice cream or whipped cream."
@@ -529,7 +529,7 @@
             "name": "Pineapple Cake",
             "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/CAKES%2FPineapple%20Cake.jpg?alt=media&token=2353685f-198d-4fd8-a4b0-36959d20b0b7",
             "price": "399",
-            "rate": "4.6",
+            "rate": "4.2",
             "time": "16",
             "calories": "312",
             "descriptions": "Pineapple Cake: Pineapple cake is a traditional Taiwanese cake that is soft and spongy in texture. The pineapple filling is not overly sweet and has a jam-like texture. The cake is usually topped with a cherry, which gives it an attractive color contrast."
@@ -539,7 +539,7 @@
             "name": "Butterscotch Cake",
             "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/CAKES%2FButterscotch%20Cake.jpg?alt=media&token=b727e3de-0fb2-4653-9385-81bd0d15e28e",
             "price": "499",
-            "rate": "4.6",
+            "rate": "4.4",
             "time": "13",
             "calories": "140",
             "descriptions": "Butterscotch Cake: Butterscotch is a type of confectionery whose primary ingredients are brown sugar and butter, but other ingredients are part of some recipes, such as corn syrup, cream, vanilla, and salt. The earliest known recipes in the middle 19th century used treacle in place of or in addition to sugar."
@@ -549,7 +549,7 @@
             "name": "Strawberry Cake",
             "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/CAKES%2FStrawberry%20Cake.jpg?alt=media&token=30eda2d1-5687-46b0-b528-80919efe6911",
             "price": "549",
-            "rate": "4.6",
+            "rate": "4.5",
             "time": "14",
             "calories": "180",
             "descriptions": "Strawberry Cake: Strawberry cake is a cake that uses strawberry as a primary ingredient. Strawberries may be used in the cake batter, atop cakes and in a strawberry cake's frosting. Some are served chilled or partially frozen, and they are sometimes served as a Valentine's Day dish."
@@ -569,7 +569,7 @@
             "name": "Fruit Cake",
             "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/CAKES%2Ffruit%20cake.jpg?alt=media&token=cf8b82e8-a781-43dd-b0ab-2df0c400a079",
             "price": "479",
-            "rate": "4.6",
+            "rate": "4.1",
             "time": "20",
             "calories": "324",
             "descriptions": "Fruit Cake: Fruitcake is a cake made with candied or dried fruit, nuts, and spices, and optionally soaked in spirits. In the United Kingdom, certain rich versions may be iced and decorated. Fruitcakes are typically served in celebration of weddings and Christmas."
@@ -579,7 +579,7 @@
             "name": "Coffee Cake",
             "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/CAKES%2Fcoffee%20cake.jpg?alt=media&token=472feaed-a7df-4fec-9e4e-caf84aee65a6",
             "price": "539",
-            "rate": "4.6",
+            "rate": "4.3",
             "time": "18",
             "calories": "331",
             "descriptions": "Coffee Cake: Coffee cake is any cake flavored with or intended to be eaten with coffee. British coffee cake is typically a sponge cake flavored with coffee, typically baked in a circular shape with two layers separated by coffee butter icing, which also covers the top of the cake."
@@ -589,7 +589,7 @@
             "name": "Carrot Cake",
             "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/CAKES%2FCarrot%20Cake.jpeg?alt=media&token=8acb417d-13bb-4fc0-83b6-23197e17963c",
             "price": "169",
-            "rate": "4.6",
+            "rate": "4.2",
             "time": "15",
             "calories": "415",
             "descriptions": "Carrot Cake: Carrot cake is a cake that contains carrots mixed into the batter. Most modern carrot cake recipes have a white cream cheese frosting. Sometimes pecans, pineapple, and shredded coconut is added in the mix."
