@@ -510,7 +510,7 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/CAKES%2FRed%20Velvet%20Cake.jpg?alt=media&token=a6b9737a-f333-4992-8dfc-932ad6a14e44",
             "price": "139",
             "rate": "4.3",
-            "time": "7",
+            "time": "19",
             "calories": "259",
             "descriptions": "Red Velvet Cake: Red velvet cake is traditionally a red, red-brown, crimson or scarlet-colored chocolate layer cake, layered with ermine icing. Traditional recipes do not use food coloring, with the red color due to non-Dutched, anthocyanin-rich cocoa."
         },
@@ -520,7 +520,7 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/CAKES%2FBlack%20Forest%20Cak.jpg?alt=media&token=097cad18-1926-4e56-ac4d-a736e086e51b",
             "price": "259",
             "rate": "4.7",
-            "time": "8",
+            "time": "15",
             "calories": "269",
             "descriptions": "Black Forest Cake: Black Forest gâteau or Black Forest cake is a chocolate sponge cake with a rich cherry filling based on the German dessert Schwarzwälder Kirschtorte, literally 'Black Forest Cherry-torte'. Typically, Black Forest gateau consists of several layers of chocolate sponge cake sandwiched with whipped cream and cherries."
         },
@@ -530,7 +530,7 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/CAKES%2FPineapple%20Cake.jpg?alt=media&token=2353685f-198d-4fd8-a4b0-36959d20b0b7",
             "price": "99",
             "rate": "4.6",
-            "time": "5",
+            "time": "16",
             "calories": "312",
             "descriptions": "Pineapple Cake: Pineapple cake is a traditional Taiwanese cake that is soft and spongy in texture. The pineapple filling is not overly sweet and has a jam-like texture. The cake is usually topped with a cherry, which gives it an attractive color contrast."
         },
@@ -540,8 +540,8 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/CAKES%2FButterscotch%20Cake.jpg?alt=media&token=b727e3de-0fb2-4653-9385-81bd0d15e28e",
             "price": "99",
             "rate": "4.6",
-            "time": "5",
-            "calories": "312",
+            "time": "13",
+            "calories": "140",
             "descriptions": "Butterscotch Cake: Butterscotch is a type of confectionery whose primary ingredients are brown sugar and butter, but other ingredients are part of some recipes, such as corn syrup, cream, vanilla, and salt. The earliest known recipes in the middle 19th century used treacle in place of or in addition to sugar."
         },
         {
@@ -550,8 +550,8 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/CAKES%2FStrawberry%20Cake.jpg?alt=media&token=30eda2d1-5687-46b0-b528-80919efe6911",
             "price": "99",
             "rate": "4.6",
-            "time": "5",
-            "calories": "312",
+            "time": "14",
+            "calories": "180",
             "descriptions": "Strawberry Cake: Strawberry cake is a cake that uses strawberry as a primary ingredient. Strawberries may be used in the cake batter, atop cakes and in a strawberry cake's frosting. Some are served chilled or partially frozen, and they are sometimes served as a Valentine's Day dish."
         },
         {
@@ -560,8 +560,8 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/CAKES%2FVanilla%20Cake.jpg?alt=media&token=85284d88-d2a6-4546-bd12-4728b8098b14",
             "price": "99",
             "rate": "4.6",
-            "time": "5",
-            "calories": "312",
+            "time": "12",
+            "calories": "250",
             "descriptions": "Vanilla Cake: Vanilla cake is a type of sponge cake made with vanilla extract. It is lighter than a butter cake and has a more open-textured crumb. This type of cake is usually prepared using the creaming method, but the reverse creaming method results in a noticeably different texture and is often used in conjunction with an oil-based recipe."
         },
         {
@@ -570,8 +570,8 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/CAKES%2Ffruit%20cake.jpg?alt=media&token=cf8b82e8-a781-43dd-b0ab-2df0c400a079",
             "price": "99",
             "rate": "4.6",
-            "time": "5",
-            "calories": "312",
+            "time": "20",
+            "calories": "324",
             "descriptions": "Fruit Cake: Fruitcake is a cake made with candied or dried fruit, nuts, and spices, and optionally soaked in spirits. In the United Kingdom, certain rich versions may be iced and decorated. Fruitcakes are typically served in celebration of weddings and Christmas."
         },
         {
@@ -580,8 +580,8 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/CAKES%2Fcoffee%20cake.jpg?alt=media&token=472feaed-a7df-4fec-9e4e-caf84aee65a6",
             "price": "99",
             "rate": "4.6",
-            "time": "5",
-            "calories": "312",
+            "time": "18",
+            "calories": "331",
             "descriptions": "Coffee Cake: Coffee cake is any cake flavored with or intended to be eaten with coffee. British coffee cake is typically a sponge cake flavored with coffee, typically baked in a circular shape with two layers separated by coffee butter icing, which also covers the top of the cake."
         },
         {
@@ -590,8 +590,8 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/CAKES%2FCarrot%20Cake.jpeg?alt=media&token=8acb417d-13bb-4fc0-83b6-23197e17963c",
             "price": "99",
             "rate": "4.6",
-            "time": "5",
-            "calories": "312",
+            "time": "15",
+            "calories": "415",
             "descriptions": "Carrot Cake: Carrot cake is a cake that contains carrots mixed into the batter. Most modern carrot cake recipes have a white cream cheese frosting. Sometimes pecans, pineapple, and shredded coconut is added in the mix."
         }
     ]
