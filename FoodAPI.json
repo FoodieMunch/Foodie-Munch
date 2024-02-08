@@ -537,7 +537,7 @@
         {
             "id": 1,
             "name": "Dosa",
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/South_indian%2F1_dosa.jpg?alt=media&token=59b7a757-d118-4eb1-99b3-fda292b0f533",
             "price": "80",
             "rate": "4.9",
             "time": "30",
