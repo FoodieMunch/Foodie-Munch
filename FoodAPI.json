@@ -547,7 +547,7 @@
         {
             "id":2,
             "name": "Idli",
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/South_indian%2F2_idli.jpg?alt=media&token=8a467f53-9fb7-4400-8d67-c3c07f0b8d2b",
             "price": "50",
             "rate": "4.5",
             "time": "30",
@@ -557,7 +557,7 @@
         {
             "id":3,
             "name": "Uttapam",
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/South_indian%2F3_Uttapam.jpg?alt=media&token=c5db7e05-3a2f-4881-86c4-d90cccc89bf3",
             "price": "60",
             "rate": "4.7",
             "time": "30",
@@ -567,7 +567,7 @@
         {
             "id":4,
             "name": "Medu Vada",
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/South_indian%2F4_Medu%20vada.jpg?alt=media&token=d9c6ebcf-e893-4a81-ab0e-34737bf50d8e",
             "price": "80",
             "rate": "4.9",
             "time": "30",
@@ -577,7 +577,7 @@
         {
             "id":5,
             "name": "Rasam",
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/South_indian%2F5_Rasam.jpg?alt=media&token=cfa123ff-69b3-4712-9889-c8953caa7fbe",
             "price": "80",
             "rate": "4.3",
             "time": "30",
@@ -587,7 +587,7 @@
         {
             "id":6,
             "name": "Appam",
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/South_indian%2F6_apam.jpg?alt=media&token=9f0a34e2-1b85-4c3f-adf1-283bbe8a5314",
             "price": "80",
             "rate": "4.9",
             "time": "30",
