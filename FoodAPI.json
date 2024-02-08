@@ -552,7 +552,7 @@
             "rate": "4.5",
             "time": "30",
             "calories": "200",
-            "descriptions": "Steamed rice cakes made from fermented rice and urad dal batter, often served with sambar and coconut chutney."
+            "descriptions": "Idli is a popular South Indian dish that is enjoyed as a breakfast item or snack. It is a savory steamed rice cake made from a batter of fermented rice and black lentils (urad dal). Idlis are known for their soft and fluffy texture and are typically served with accompaniments such as sambar (a lentil-based vegetable stew) and various chutneys. Here are the details of idlis"
         },
         {
             "id":3,
@@ -568,7 +568,7 @@
             "id":4,
             "name": "Medu Vada",
             "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/South_indian%2F4_Medu%20vada.jpg?alt=media&token=d9c6ebcf-e893-4a81-ab0e-34737bf50d8e",
-            "price": "80",
+            "price": "30",
             "rate": "4.9",
             "time": "30",
             "calories": "200",
