@@ -594,6 +594,46 @@
             "calories": "415",
             "descriptions": "Carrot Cake: Carrot cake is a cake that contains carrots mixed into the batter. Most modern carrot cake recipes have a white cream cheese frosting. Sometimes pecans, pineapple, and shredded coconut is added in the mix."
         }
+    ],
+
+    "BrackfastFoodAPI": [
+        {
+            "id": 1,
+            "name": "Chai",
+            "price": "10"
+        },
+        {
+            "id": 2,
+            "name": "Coffee",
+            "price": "30"
+        },
+        {
+            "id": 3,
+            "name": "Poha",
+            "price": "20"
+        },
+        {
+            "id": 4,
+            "name": "Upma",
+            "price": "40"
+        },
+        {
+            "id": 5,
+            "name": "Idli Sambhar",
+            "price": "30"
+        },
+        {
+            "id": 6,
+            "name": "Dosa",
+            "price": "60"
+        },
+        {
+            "id": 7,
+            "name": "Paratha with Curd",
+            "price": "50"
+        }
+        
     ]
+    
  
 }
