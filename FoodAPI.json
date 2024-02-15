@@ -381,7 +381,7 @@
         {
         "id":4,
             "name": "Mixed Vegetable Roll",
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/ROLLS%2FMixed%20Vegetable%20Roll.jpg?alt=media&token=f8d72845-2aa9-4f9c-a6ab-62b8145f7309",
             "price": "40",
             "rate": "4.0",
             "time": "30",
@@ -391,7 +391,7 @@
         {
          "id":5,
             "name": "Corn and Cheese Roll",
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/ROLLS%2FCorn%20and%20Cheese%20Roll.webp?alt=media&token=99dac8a8-1ad4-4d67-a958-8aff0c8c557b",
             "price": "50",
             "rate": "4.0",
             "time": "30",
@@ -401,8 +401,8 @@
         {
          "id":6,
             "name": "Soya Chaap Roll",
-            "image": "50",
-            "price": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/ROLLS%2FSoya%20Chaap%20Roll.jpg?alt=media&token=4231a3c6-e68f-4ffd-aafc-4368eb3bb25e",
+            "price": "50",
             "rate": "4.0",
             "time": "30",
             "calories": "256",
