@@ -377,6 +377,36 @@
             "time": "6",
             "calories": "256",
             "descriptions": "A Pizza Bread Roll is a delightful snack that combines the flavors of pizza with a convenient, handheld form. It's made by spreading pizza sauce and cheese over a slice of bread, adding toppings like pepperoni, vegetables, or other favorite pizza ingredients, and then rolling it up tightly. The roll is usually baked until the bread is crispy and the cheese is melted, resulting in a portable and flavorful treat reminiscent of pizza flavors."
+        },
+        {
+        "id":4,
+            "name": "Mixed Vegetable Roll",
+            "image": "",
+            "price": "40",
+            "rate": "4.0",
+            "time": "30",
+            "calories": "256",
+            "descriptions": "A medley of mixed vegetables such as carrots, peas, beans, and potatoes, cooked with Indian spices and then wrapped in a soft flatbread. It's often served with a side of tangy mint chutney or tomato ketchup for dipping."
+        },
+        {
+         "id":5,
+            "name": "Corn and Cheese Roll",
+            "image": "",
+            "price": "50",
+            "rate": "4.0",
+            "time": "30",
+            "calories": "256",
+            "descriptions": "A delightful combination of sweet corn kernels and melted cheese, seasoned with spices, and rolled in a soft flatbread. This roll offers a burst of flavors from the sweet corn and richness from the cheese, making it a favorite among vegetarians."
+        },
+        {
+         "id":6,
+            "name": "Soya Chaap Roll",
+            "image": "50",
+            "price": "",
+            "rate": "4.0",
+            "time": "30",
+            "calories": "256",
+            "descriptions": "Soya chaap, made from textured vegetable protein (TVP) or soybean chunks, is marinated in yogurt and spices, grilled or cooked on a skewer, and then wrapped in a soft flatbread. It's often served with a creamy yogurt-based sauce and garnished with onions and chaat masala."
         }
     ],
     "BurgerFoodAPI": [
