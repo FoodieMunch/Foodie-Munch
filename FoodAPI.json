@@ -1,7 +1,37 @@
 {
     "PopularFoodAPI": [
-        {
+         {
             "id": 1,
+            "name": "Samosa",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/POPULER%20FOOD%2FSamosa.png?alt=media&token=12bfb7b6-09e4-4146-8155-20e2bb5bfa46",
+            "price": "20",
+            "rate": "4.9",
+            "time": "30",
+            "calories": "120-150",
+            "descriptions": "Samosa is a popular Indian snack consisting of a deep-fried pastry filled with spiced potatoes, peas, and sometimes other ingredients such as lentils or minced meat. It is usually triangular in shape."
+        },
+        {
+            "id": 2,
+            "name": "Vada Pav",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/POPULER%20FOOD%2FVadapav.png?alt=media&token=58b31360-2a15-4c9c-bbf9-11e2ab4c2049",
+            "price": "20",
+            "rate": "4.6",
+            "time": "25",
+            "calories": " 300-400",
+            "descriptions": "Vada Pav is a popular street food from the Indian state of Maharashtra. It consists of a deep-fried potato dumpling (vada) served in a small bun (pav) along with chutneys such as green chutney and tamarind chutney, and sometimes accompanied by fried green chili peppers."
+        },
+        {
+            "id": 3,
+            "name": "Dabeli",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/POPULER%20FOOD%2Fdabeli.png?alt=media&token=bcaf3ccd-61da-4915-a24b-e315cb507b12",
+            "price": "20",
+            "rate": "4.4",
+            "time": "20",
+            "calories": "300-350",
+            "descriptions": "Dabeli is a savory snack from the Indian state of Gujarat. It consists of a spicy potato filling placed between a special bun (similar to a pav), along with various chutneys, peanuts, pomegranate seeds, and sev (fried gram flour vermicelli)."
+        },
+        {
+            "id": 4,
             "name": "Manchurian",
             "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/POPULER%20FOOD%2Fmanchurian.jpg?alt=media&token=d7f99c74-df06-43ca-8147-dbadfb68c9f4",
             "price": "80",
@@ -11,7 +41,7 @@
             "descriptions": "Manchurian: Embark on a flavor-packed journey with our tantalizing Manchurian. Indulge in a fusion of Asian tastes as you savor crispy, bite-sized vegetable or protein balls, coated in a flavorful blend of sweet, tangy, and spicy sauce. With each bite, experience the exciting contrast of textures and the harmonious dance of flavors. Our Manchurian is a culinary adventure that captures the essence of Indo-Chinese cuisine, offering a memorable and satisfying dining experience that leaves you craving for more."
         },
         {
-            "id": 2,
+            "id": 5,
             "name": "Fried Rice",
             "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/POPULER%20FOOD%2Ffired%20rice.jpg?alt=media&token=355bb57e-f278-43c8-995c-d201d7d81b72",
             "price": "60",
@@ -21,7 +51,7 @@
             "descriptions": "Fried Rice: Delight in the harmony of flavors and textures with our signature fried rice dishes. Made to order, our fried rice combines fluffy grains with a medley of fresh vegetables, succulent proteins, and aromatic spices, all wok-tossed to perfection. Each mouthful offers a balance of savory and umami notes, creating a satisfying meal that's both comforting and satisfying. Elevate your dining experience with our delectable fried rice creations that showcase the art of Asian cuisine in every bite."
         },
         {
-            "id": 3,
+            "id": 6,
             "name": "Pizza",
             "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/POPULER%20FOOD%2Fpizza.jpg?alt=media&token=09887efe-deec-4f25-8ed5-c261e2dd23c3",
             "price": "199",
@@ -31,7 +61,7 @@
             "descriptions": "Pizza: Discover a world of taste with our artisanal pizzas. Each pie is a masterpiece of flavors, starting with a hand-stretched crust that's crisp on the outside and tender inside. Topped with the finest ingredients, from the tangy tomato sauce to the melty cheese and a variety of savory toppings, every slice is a burst of savory delight. Whether you're a fan of classic Margherita or adventurous BBQ chicken, our pizzas are crafted to satisfy cravings and create unforgettable moments shared with friends and family."
         },
         {
-            "id": 4,
+            "id": 7,
             "name": "Burger",
             "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/POPULER%20FOOD%2Fburger.jpg?alt=media&token=60bec52b-2ec1-4a28-a182-26eb7ce098d7",
             "price": "99",
@@ -41,7 +71,7 @@
             "descriptions": "Burger: Experience the ultimate satisfaction with our gourmet burgers. Crafted to perfection, our burgers feature juicy, succulent patties made from premium meats or plant-based alternatives. Nestled within artisan buns and adorned with fresh toppings, our burgers deliver a symphony of flavors and textures in every bite. Whether you're a meat lover or a veggie enthusiast, our burgers redefine the classic comfort food, offering a culinary adventure that's both familiar and extraordinary."
         },
         {
-            "id": 5,
+            "id": 8,
             "name": "Pasta",
             "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/POPULER%20FOOD%2Fpasta.avif?alt=media&token=024a3c1b-118f-43fa-8240-87a86c63022c",
             "price": "70",
@@ -51,7 +81,7 @@
             "descriptions": "Pasta: Indulge in the timeless comfort of our pasta dishes. From the delicate twirls of angel hair to the hearty twists of penne, our pasta is meticulously cooked and paired with a symphony of sauces. Each bite is a harmony of taste and texture, as the flavors of our rich sauces meld with the perfectly al dente pasta. Elevate your dining experience with our handcrafted pasta creations that celebrate the artistry of Italian cuisine."
         },
         {
-            "id": 6,
+            "id": 9,
             "name": "Noodles",
             "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/POPULER%20FOOD%2Fnoodles.avif?alt=media&token=6b48a361-7840-41f9-83d5-e5ff853720f4",
             "price": "50",
@@ -61,7 +91,7 @@
             "descriptions": "Noodles: Embark on a flavorful journey with our exquisite noodle dishes. From the silky strands of traditional Pad Thai to the rich umami of savory ramen, our noodles are a canvas for authentic Asian flavors. Savor the perfect blend of textures as you explore the variety of ingredients that come together in each bowl, creating a memorable dining experience that satisfies both the palate and the soul."
         },
         {
-            "id": 7,
+            "id": 10,
             "name": "Sandwich",
             "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/POPULER%20FOOD%2Fsandwich.avif?alt=media&token=4fbe7bd1-ee46-4a7e-bbf6-29e4eb83c543",
             "price": "40",
@@ -71,7 +101,7 @@
             "descriptions": "Sandwich: A delightful creation that brings together layers of flavors between slices of freshly baked bread. From classic combinations like turkey and cranberry to creative veggie medleys, our sandwiches are a harmony of tastes and textures, offering a convenient and satisfying meal for any time of day. Bite into a world of culinary creativity with every bite of our handcrafted sandwiches."
         },
         {
-            "id": 8,
+            "id": 11,
             "name": "Rolls",
             "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/POPULER%20FOOD%2Frolls.jpg?alt=media&token=0a80d3f5-afd3-49d1-9baa-c05fe3d0356a",
             "price": "30",
@@ -81,7 +111,7 @@
             "descriptions": "Rolls: Unwrap a burst of taste with our delectable rolls. A symphony of flavors awaits as you bite into soft, freshly made wraps, enveloping a medley of succulent fillings. Whether you prefer tender grilled meats, vibrant veggies, or a combination of both, our rolls are a handheld delight that offers a harmonious blend of textures and tastes. Elevate your dining experience with our diverse selection of rolls, perfect for on-the-go indulgence or a satisfying meal that satisfies your cravings in every bite."
         },
         {
-            "id": 9,
+            "id": 12,
             "name": "Momos",
             "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/POPULER%20FOOD%2Fmomos.jpg?alt=media&token=3c1f41e2-14f5-4c59-a158-f40e71019a58",
             "price": "50",
@@ -91,7 +121,7 @@
             "descriptions": "Momos: Dive into a world of savory delight with our exquisite momos. These delicate dumplings, filled with a delectable mixture of meats or vegetables, are lovingly crafted to perfection. Steamed to retain their tender texture, momos offer a delightful combination of flavors as you dip them into our special sauces. With each bite-sized morsel, experience the culinary artistry of Himalayan cuisine, bringing together the essence of tradition and innovation in a single bite. Our momos are an irresistible treat that's sure to captivate your taste buds and leave you craving more."
         },
         {
-            "id": 10,
+            "id": 13,
             "name": "Ice Cream",
             "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/POPULER%20FOOD%2Fice%20cream.jpeg?alt=media&token=64003c6c-0909-479a-b654-a44268b2b1dd",
             "price": "40",
@@ -101,7 +131,7 @@
             "descriptions": "Ice Cream: Indulge in pure delight with our premium ice creams. Each scoop is a creamy masterpiece, carefully churned to achieve the perfect balance of velvety texture and rich flavors. From classic vanilla to adventurous salted caramel swirls, our ice creams offer a symphony of tastes that tantalize your senses. Whether enjoyed in a cone, cup, or as a topping, our ice creams are a timeless treat that brings joy and comfort, creating sweet moments that linger long after the last spoonful."
         },
         {
-            "id": 11,
+            "id": 14,
             "name": "French fries",
             "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/POPULER%20FOOD%2Ffrench%20fries.jpg?alt=media&token=d3eb2539-930b-473f-b5c8-bc716a0d5cd1",
             "price": "60",
@@ -111,7 +141,7 @@
             "descriptions": "French fries are a beloved side dish made from sliced potatoes that are typically deep-fried until golden and crispy. They're seasoned with salt and can be enjoyed on their own or paired with various dipping sauces. These thin and crunchy delights are a popular snack around the world, known for their satisfying texture and comforting taste."
         },
         {
-            "id": 12,
+            "id": 15,
             "name": "Bread Pakora",
             "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/POPULER%20FOOD%2Fbread%20pakora.jpg?alt=media&token=a031c1b0-1ed6-4785-a954-5d71ee7bb901",
             "price": "30",
