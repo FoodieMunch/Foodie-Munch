@@ -73,7 +73,7 @@
         {
             "id": 8,
             "name": "Pasta",
-            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/POPULER%20FOOD%2Fpasta.avif?alt=media&token=024a3c1b-118f-43fa-8240-87a86c63022c",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/POPULER%20FOOD%2Fpasta.jpg?alt=media&token=948a0423-8d5e-4bbb-ac30-6106f24c7cc8",
             "price": "70",
             "rate": "4.6",
             "time": "25",
@@ -83,7 +83,7 @@
         {
             "id": 9,
             "name": "Noodles",
-            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/POPULER%20FOOD%2Fnoodles.avif?alt=media&token=6b48a361-7840-41f9-83d5-e5ff853720f4",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/POPULER%20FOOD%2Fnoodles.jpg?alt=media&token=79cd2381-7f4b-472e-a7e2-dd8144e76579",
             "price": "50",
             "rate": "4.5",
             "time": "20",
@@ -93,7 +93,7 @@
         {
             "id": 10,
             "name": "Sandwich",
-            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/POPULER%20FOOD%2Fsandwich.avif?alt=media&token=4fbe7bd1-ee46-4a7e-bbf6-29e4eb83c543",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/POPULER%20FOOD%2Fsandwich.jpg?alt=media&token=4ead45e8-b4d4-47bb-8172-79ab44ffa198",
             "price": "40",
             "rate": "4.4",
             "time": "15",
@@ -309,7 +309,7 @@
         {
             "id": 1,
             "name": "Margherita",
-            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/pizza%2Fmergherita.avif?alt=media&token=4e11beef-5774-44c5-af37-fa378b54aa0c",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/pizza%2Fmergherita.jpg?alt=media&token=15a8959c-ab44-49ab-836c-897d80e129eb",
             "price": "99",
             "rate": "4.5",
             "time": "5",
