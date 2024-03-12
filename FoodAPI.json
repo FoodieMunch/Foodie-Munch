@@ -742,8 +742,28 @@
         },
         {
             "id": 2,
-            "name": "Pulav",
+            "name": "Vegetable Pulao with Raita",
+            "price": "60"
+        },
+        {
+            "id": 3,
+            "name": "Malai Kofta with Naan or Roti",
             "price": "50"
+        },
+        {
+            "id": 4,
+            "name": "Paneer Tikka Masala",
+            "price": "70"
+        },
+        {
+            "id": 5,
+            "name": "Matar Paneer",
+            "price": "80"
+        },
+        {
+            "id": 6,
+            "name": "Samosa Chaat",
+            "price": "30"
         }
     ]
 
