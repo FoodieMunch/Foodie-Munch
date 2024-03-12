@@ -695,13 +695,53 @@
         
     ],
 
-    "LunchAPI":[
+    "LunchFoodAPI":[
         {
-           "id": 1,
-    "name": "Saag Paneer with Jeera Rice and Raita",
-    "price": 10.99
+            "id": 1,
+            "name": "Saag Paneer with Jeera Rice and Raita",
+            "price": "70"
+        },
+        {
+            "id": 2,
+            "name": "Chole Bhature",
+            "price": "60"
+        },
+        {
+            "id": 3,
+            "name": "Dal Makhani with Jeera Rice and Raita",
+            "price": "50"
+        }
+        {
+            "id": 4,
+            "name": "Aloo Gobi",
+            "price": "40"
+        }
+        {
+            "id": 5,
+            "name": "Palak Paneer with Jeera Rice",
+            "price": "80"
+        }
+        {
+            "id": 6,
+            "name": "Mhindi Masala",
+            "price": "40"
+        }
+        {
+            "id": 7,
+            "name": "Rajama Chawal",
+            "price": "50"
+        }
+        
+    ],
+
+    "DinnerAPI"[
+        {
+            "id": 7,
+            "name": "Rajama Chawal",
+            "price": "50"
         }
     ]
+
     
  
 }
